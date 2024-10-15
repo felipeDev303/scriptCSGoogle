@@ -1,0 +1,1 @@
+Este proyecto no es más que una compilación de algunos scripts básicos del certificado de ciberseguridad de google
