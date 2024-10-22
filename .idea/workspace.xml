@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b5cffe3-cf73-4846-910e-be4fa3a8914c" name="Changes" comment="create function">
+    <list default="true" id="2b5cffe3-cf73-4846-910e-be4fa3a8914c" name="Changes" comment="LAB-007-Activity_Define and call a function">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/function.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/function.ipynb" afterDir="false" />
     </list>
@@ -110,7 +110,7 @@
       <workItem from="1729162896413" duration="2514000" />
       <workItem from="1729257349448" duration="3200000" />
       <workItem from="1729281519413" duration="2741000" />
-      <workItem from="1729547562372" duration="1276000" />
+      <workItem from="1729547562372" duration="3616000" />
     </task>
     <task id="LOCAL-00001" summary="Componentes básicos de Python">
       <option name="closed" value="true" />
@@ -168,7 +168,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729317330967</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="LAB-007-Activity_Define and call a function">
+      <option name="closed" value="true" />
+      <created>1729564714898</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1729564714898</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -180,6 +188,7 @@
     <MESSAGE value="loops in Python" />
     <MESSAGE value="create loops" />
     <MESSAGE value="create function" />
-    <option name="LAST_COMMIT_MESSAGE" value="create function" />
+    <MESSAGE value="LAB-007-Activity_Define and call a function" />
+    <option name="LAST_COMMIT_MESSAGE" value="LAB-007-Activity_Define and call a function" />
   </component>
 </project>
