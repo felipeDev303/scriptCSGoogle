@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b5cffe3-cf73-4846-910e-be4fa3a8914c" name="Changes" comment="Desarrollo lab 010">
-      <change afterPath="$PROJECT_DIR$/regex.ipynb" afterDir="false" />
+    <list default="true" id="2b5cffe3-cf73-4846-910e-be4fa3a8914c" name="Changes" comment="Expresiones regulares (regex)">
+      <change afterPath="$PROJECT_DIR$/LAB-011-Activity_Use_regex_to_find_patterns.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LAB-010-Activity_Develop_an_algorithm.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/LAB-010-Activity_Develop_an_algorithm.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/regex.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/regex.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,7 +118,8 @@
       <workItem from="1729858765310" duration="4926000" />
       <workItem from="1730124602408" duration="1697000" />
       <workItem from="1730158200532" duration="8146000" />
-      <workItem from="1730207257287" duration="3383000" />
+      <workItem from="1730207257287" duration="4012000" />
+      <workItem from="1730237822643" duration="5866000" />
     </task>
     <task id="LOCAL-00001" summary="Componentes básicos de Python">
       <option name="closed" value="true" />
@@ -256,7 +257,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730181632895</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Expresiones regulares (regex)">
+      <option name="closed" value="true" />
+      <created>1730213224627</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1730213224627</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -275,6 +284,7 @@
     <MESSAGE value="LAB-009-STRING-WORK" />
     <MESSAGE value="Operaciones con listas en Python" />
     <MESSAGE value="Desarrollo lab 010" />
-    <option name="LAST_COMMIT_MESSAGE" value="Desarrollo lab 010" />
+    <MESSAGE value="Expresiones regulares (regex)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Expresiones regulares (regex)" />
   </component>
 </project>
