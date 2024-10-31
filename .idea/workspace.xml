@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b5cffe3-cf73-4846-910e-be4fa3a8914c" name="Changes" comment="Trabajar con archivos en Python">
-      <change beforePath="$PROJECT_DIR$/LAB-012-Activity_Import_and_parse_a_text_file.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/LAB-012-Activity_Import_and_parse_a_text_file.ipynb" afterDir="false" />
+    <list default="true" id="2b5cffe3-cf73-4846-910e-be4fa3a8914c" name="Changes" comment="Fix ejemplo algoritmo de análisis sintáctico en Python">
+      <change afterPath="$PROJECT_DIR$/LAB-013-Activity_Create_another_algorithm.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,7 +119,8 @@
       <workItem from="1730158200532" duration="8146000" />
       <workItem from="1730207257287" duration="4012000" />
       <workItem from="1730237822643" duration="6977000" />
-      <workItem from="1730325856134" duration="4429000" />
+      <workItem from="1730325856134" duration="4563000" />
+      <workItem from="1730370479183" duration="2253000" />
     </task>
     <task id="LOCAL-00001" summary="Componentes básicos de Python">
       <option name="closed" value="true" />
@@ -280,7 +282,23 @@
       <option name="project" value="LOCAL" />
       <updated>1730351837278</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Ejemplo algoritmo de análisis sintáctico en Python">
+      <option name="closed" value="true" />
+      <created>1730353778906</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1730353778906</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Fix ejemplo algoritmo de análisis sintáctico en Python">
+      <option name="closed" value="true" />
+      <created>1730353857630</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1730353857630</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -302,6 +320,8 @@
     <MESSAGE value="Expresiones regulares (regex)" />
     <MESSAGE value="Expresiones regulares (regex) Laboratorio" />
     <MESSAGE value="Trabajar con archivos en Python" />
-    <option name="LAST_COMMIT_MESSAGE" value="Trabajar con archivos en Python" />
+    <MESSAGE value="Ejemplo algoritmo de análisis sintáctico en Python" />
+    <MESSAGE value="Fix ejemplo algoritmo de análisis sintáctico en Python" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix ejemplo algoritmo de análisis sintáctico en Python" />
   </component>
 </project>
