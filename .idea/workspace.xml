@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b5cffe3-cf73-4846-910e-be4fa3a8914c" name="Changes" comment="Expresiones regulares (regex)">
-      <change afterPath="$PROJECT_DIR$/LAB-011-Activity_Use_regex_to_find_patterns.ipynb" afterDir="false" />
+    <list default="true" id="2b5cffe3-cf73-4846-910e-be4fa3a8914c" name="Changes" comment="Expresiones regulares (regex) Laboratorio">
+      <change afterPath="$PROJECT_DIR$/LAB-012-Activity_Import_and_parse_a_text_file.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/regex.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/regex.ipynb" afterDir="false" />
     </list>
@@ -119,7 +119,8 @@
       <workItem from="1730124602408" duration="1697000" />
       <workItem from="1730158200532" duration="8146000" />
       <workItem from="1730207257287" duration="4012000" />
-      <workItem from="1730237822643" duration="5866000" />
+      <workItem from="1730237822643" duration="6977000" />
+      <workItem from="1730325856134" duration="3766000" />
     </task>
     <task id="LOCAL-00001" summary="Componentes básicos de Python">
       <option name="closed" value="true" />
@@ -265,7 +266,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730213224627</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Expresiones regulares (regex) Laboratorio">
+      <option name="closed" value="true" />
+      <created>1730264965519</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1730264965519</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -285,6 +294,7 @@
     <MESSAGE value="Operaciones con listas en Python" />
     <MESSAGE value="Desarrollo lab 010" />
     <MESSAGE value="Expresiones regulares (regex)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Expresiones regulares (regex)" />
+    <MESSAGE value="Expresiones regulares (regex) Laboratorio" />
+    <option name="LAST_COMMIT_MESSAGE" value="Expresiones regulares (regex) Laboratorio" />
   </component>
 </project>
