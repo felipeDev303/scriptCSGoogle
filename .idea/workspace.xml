@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b5cffe3-cf73-4846-910e-be4fa3a8914c" name="Changes" comment="Create another algorithm">
-      <change afterPath="$PROJECT_DIR$/debugging.ipynb" afterDir="false" />
+    <list default="true" id="2b5cffe3-cf73-4846-910e-be4fa3a8914c" name="Changes" comment="debugging">
+      <change afterPath="$PROJECT_DIR$/LAB_014_Activity_Updated.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -121,7 +121,7 @@
       <workItem from="1730237822643" duration="6977000" />
       <workItem from="1730325856134" duration="4563000" />
       <workItem from="1730370479183" duration="2890000" />
-      <workItem from="1730430299701" duration="1704000" />
+      <workItem from="1730430299701" duration="2720000" />
     </task>
     <task id="LOCAL-00001" summary="Componentes básicos de Python">
       <option name="closed" value="true" />
@@ -307,7 +307,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730372779266</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="debugging">
+      <option name="closed" value="true" />
+      <created>1730432699049</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1730432699049</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -332,7 +340,8 @@
     <MESSAGE value="Ejemplo algoritmo de análisis sintáctico en Python" />
     <MESSAGE value="Fix ejemplo algoritmo de análisis sintáctico en Python" />
     <MESSAGE value="Create another algorithm" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create another algorithm" />
+    <MESSAGE value="debugging" />
+    <option name="LAST_COMMIT_MESSAGE" value="debugging" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
