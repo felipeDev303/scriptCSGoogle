@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b5cffe3-cf73-4846-910e-be4fa3a8914c" name="Changes" comment="Fix ejemplo algoritmo de análisis sintáctico en Python">
-      <change afterPath="$PROJECT_DIR$/LAB-013-Activity_Create_another_algorithm.ipynb" afterDir="false" />
+    <list default="true" id="2b5cffe3-cf73-4846-910e-be4fa3a8914c" name="Changes" comment="Create another algorithm">
+      <change afterPath="$PROJECT_DIR$/debugging.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -120,7 +120,8 @@
       <workItem from="1730207257287" duration="4012000" />
       <workItem from="1730237822643" duration="6977000" />
       <workItem from="1730325856134" duration="4563000" />
-      <workItem from="1730370479183" duration="2253000" />
+      <workItem from="1730370479183" duration="2890000" />
+      <workItem from="1730430299701" duration="1704000" />
     </task>
     <task id="LOCAL-00001" summary="Componentes básicos de Python">
       <option name="closed" value="true" />
@@ -298,7 +299,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730353857630</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Create another algorithm">
+      <option name="closed" value="true" />
+      <created>1730372779266</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1730372779266</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -322,6 +331,18 @@
     <MESSAGE value="Trabajar con archivos en Python" />
     <MESSAGE value="Ejemplo algoritmo de análisis sintáctico en Python" />
     <MESSAGE value="Fix ejemplo algoritmo de análisis sintáctico en Python" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix ejemplo algoritmo de análisis sintáctico en Python" />
+    <MESSAGE value="Create another algorithm" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create another algorithm" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook://C:/Users/Usuario/Documents/Programación/pythonProjects/scriptsCSGoogle/debugging.ipynb</url>
+          <line>3</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
